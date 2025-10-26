@@ -1,4 +1,4 @@
 # nlp-TM
-Ado Murtado
-Rifa Maulana
-Salma Oktania
+# Ado Murtado
+# Rifa Maulana
+# Salma Oktania
